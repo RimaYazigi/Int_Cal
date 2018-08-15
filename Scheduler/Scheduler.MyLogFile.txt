@@ -1,0 +1,4 @@
+Jun 25, 2018 9:43:30 PM scheduler.Scheduler lambda$start$0
+INFO: test logged in
+Jun 25, 2018 9:45:42 PM scheduler.MainScreen lambda$new$1
+INFO: test logged out
